@@ -23,4 +23,6 @@ This project is an interactive Sales Performance Dashboard built using Excel 201
 - Measured sales achievement against regional targets
 
 ## Preview
-Sales_Performance_Dashboard.png
+<img width="1917" height="996" alt="Sales_Performance_Dashboard" src="https://github.com/user-attachments/assets/712f2e49-1939-40e6-925b-8224cd4334b8" />
+
+
