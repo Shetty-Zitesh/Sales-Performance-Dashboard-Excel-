@@ -1,4 +1,4 @@
-# Sales Performance Dashboard (Excel)
+# Sales Performance Analysis Dashboard (Excel)
 
 ## Project Overview
 This project is an interactive Sales Performance Dashboard built using Excel 2016 to analyze sales trends, target achievement, and customer performance.
